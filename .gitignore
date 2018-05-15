@@ -15,6 +15,7 @@
 *.swp
 Thumbs.db
 config.php
+html/apple*
 html/css/custom/*
 html/images/custom/*
 html/plugins/*
